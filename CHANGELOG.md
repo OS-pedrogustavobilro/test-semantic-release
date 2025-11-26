@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v1.1.2...v1.2.0) (2025-11-26)
+
+
+### Features
+
+* 1.x log ([d5b8e3b](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/d5b8e3bff8ec24caf14f400dc6bdc1bb94bf7a12))
+
 ## [1.1.2](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v1.1.1...v1.1.2) (2025-11-26)
 
 
