@@ -4,5 +4,3 @@
 ### Features
 
 * Include changelog in release ([68fb300](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/68fb30011f5c8cd59f067ed601d97730a97a4651))
-
-(...)
