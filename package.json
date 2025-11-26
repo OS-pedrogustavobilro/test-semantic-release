@@ -1,0 +1,30 @@
+{
+  "name": "@ospedrobilro/test-semantic-release",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Test semantic-release with different branching configurations.",
+  "homepage": "https://github.com/OS-pedrogustavobilro/test-semantic-release",
+  "bugs": {
+    "url": "https://github.com/OS-pedrogustavobilro/test-semantic-release/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OS-pedrogustavobilro/test-semantic-release.git"
+  },
+  "license": "MIT",
+  "author": "OS-PedroGustavoBilro",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "src"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^12.0.0",
+    "semantic-release": "^25.0.1"
+  }
+}
