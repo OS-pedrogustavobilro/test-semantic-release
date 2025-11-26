@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v1.1.1...v2.0.0) (2025-11-26)
+
+
+### Bug Fixes
+
+* Log message ([8e2efc1](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/8e2efc1fca523c5663f43ed883620bd0033cc8d2))
+
+
+### Features
+
+* Remove 1.x ([626c0bb](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/626c0bb265bd665700f9f6f6eb05faf41d1a8f0f))
+
+
+### BREAKING CHANGES
+
+* Trigger major version update
+
 ## [1.1.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v1.1.0...v1.1.1) (2025-11-26)
 
 
