@@ -1,7 +1,6 @@
 module.exports = {
   branches: [
-    { name: 'main', channel: 'latest' },
-    { name: '1.x', channel: 'latest-1', prerelease: false }
+    { name: 'main', channel: 'latest' }
   ],
   repositoryUrl: 'https://github.com/OS-pedrogustavobilro/test-semantic-release.git',
   plugins: [
