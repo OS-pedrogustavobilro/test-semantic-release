@@ -25,6 +25,10 @@ jobs:
         shell: bash
         run: npm install -g npm@latest
 
+      - name: Install dependencies
+        shell: bash
+        run: npm i
+
       - name: Semantic release
         env:
           GITHUB_TOKEN: ${{ github.token }}
