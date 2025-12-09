@@ -40,3 +40,9 @@ jobs:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
+      - name: Pull latest commits
+        run: git pull origin main
+      - name: Print latest commit
+        run: |
+          echo "Latest commit:"
+          git log -1 --pretty=format:"%H%nAuthor: %an%nDate: %ad%nMessage: %s"
