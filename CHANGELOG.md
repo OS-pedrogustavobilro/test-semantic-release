@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.0...v2.0.1) (2025-12-09)
+
+
+### Bug Fixes
+
+* Add a checkout after semantic-release ([3ac0102](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/3ac01021ded81cf5de3f6b4985a6095e22f7b857))
+
 # [2.0.0](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v1.1.1...v2.0.0) (2025-11-26)
 
 
