@@ -1,3 +1,15 @@
+## [2.0.3](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.2...v2.0.3) (2025-12-15)
+
+
+### Bug Fixes
+
+* correct ref from checkout ([c55e6c2](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/c55e6c284693ef74a780c367a17c6bf5720f0bb6))
+
+
+### Reverts
+
+* pull from main after semantic-release ([ae0fdd4](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/ae0fdd406cc9e11267334a4f67febd118f157fba))
+
 ## [2.0.2](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.1...v2.0.2) (2025-12-09)
 
 
