@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.1...v2.0.2) (2025-12-09)
+
+
+### Bug Fixes
+
+* pull from main ([0826178](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/0826178c4ff78116fe6b305057fdbc5b7b8966e5))
+
 ## [2.0.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.0...v2.0.1) (2025-12-09)
 
 
