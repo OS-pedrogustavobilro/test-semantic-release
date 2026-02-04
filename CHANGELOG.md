@@ -1,3 +1,10 @@
+# [3.0.0-alpha.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.1.0-alpha.1...v3.0.0-alpha.1) (2026-02-04)
+
+
+### Bug Fixes
+
+* mock fix for v3 ([3c06f9b](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/3c06f9b4565ee867039eba7fc91e04948b9fb2c8))
+
 # [2.1.0-alpha.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.4...v2.1.0-alpha.1) (2026-02-04)
 
 
