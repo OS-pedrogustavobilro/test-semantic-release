@@ -1,3 +1,10 @@
+# [2.1.0-alpha.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.4...v2.1.0-alpha.1) (2026-02-04)
+
+
+### Features
+
+* new version 3 ([d88309f](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/d88309f818910b7148b9aacff393fd3f1f86240e))
+
 ## [2.0.4](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.3...v2.0.4) (2026-02-04)
 
 
