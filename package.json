@@ -1,6 +1,6 @@
 {
   "name": "@ospedrobilro/test-semantic-release",
-  "version": "2.0.4",
+  "version": "3.0.0-beta.0",
   "type": "commonjs",
   "description": "Test semantic-release with different branching configurations.",
   "homepage": "https://github.com/OS-pedrogustavobilro/test-semantic-release",
