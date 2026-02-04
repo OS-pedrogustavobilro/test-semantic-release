@@ -1,3 +1,10 @@
+# [2.1.0-beta.1](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.4...v2.1.0-beta.1) (2026-02-04)
+
+
+### Features
+
+* Mock feature for v3 beta ([8a92175](https://github.com/OS-pedrogustavobilro/test-semantic-release/commit/8a921754bb003e6eab6a51475c69aca216bf82e9))
+
 ## [2.0.4](https://github.com/OS-pedrogustavobilro/test-semantic-release/compare/v2.0.3...v2.0.4) (2026-02-04)
 
 
